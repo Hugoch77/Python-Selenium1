@@ -1,0 +1,20 @@
+
+Escribiendo en el campo txtUsername el texto Admin
+
+Escribiendo en el campo txtPassword el texto admin123
+
+Damos click en el campo btnLogin
+
+Entrando al sistema login dos
+
+Entrando al sistema dos
+
+Damos click en el campo //b[contains(.,'Admin')]
+
+Escribiendo en el campo searchSystemUser_userName el texto David.Morris
+
+Damos click en el campo searchBtn
+
+Damos click en el campo //input[contains(@id,'btnAdd')]
+Salida del login dos
+Salida del login uno

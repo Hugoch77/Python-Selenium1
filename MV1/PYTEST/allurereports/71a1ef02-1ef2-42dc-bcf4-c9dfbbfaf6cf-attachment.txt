@@ -1,0 +1,28 @@
+
+Escribiendo en el campo Email el texto admin@yourstore.com
+
+Escribiendo en el campo Password el texto admin
+
+Damos click en el campo //button[@type='submit'][contains(.,'Log in')]
+
+Entrando al sistema login uno
+
+Entrando al sistema uno
+
+Damos click en el campo //a[@href='#'][contains(.,'Customers')]
+
+Damos click en el campo (//p[contains(.,'Customers')])[2]
+
+Escribiendo en el campo //input[contains(@id,'SearchFirstName')] el texto Victoria
+
+Damos click en el campo //button[contains(@id,'search-customers')]
+
+Damos click en el campo //a[@href='/Admin/Customer/Create']
+
+Damos click en el campo //input[contains(@id,'Gender_Male')]
+
+Damos click en el campo //input[contains(@id,'IsTaxExempt')]
+
+Damos click en el campo (//div[contains(@class,'k-multiselect-wrap k-floatwrap')])[1]
+
+Damos click en el campo //li[@tabindex='-1'][contains(.,'Test store 2')]
